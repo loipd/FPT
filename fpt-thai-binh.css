@@ -43,7 +43,7 @@ p.recent-des,.resumo span,.resumo a,.item .post-body,.static_page .post-body{fon
 #outer-wrapper{max-width:1040px;margin:0 auto;background-color:#FFFFFF;box-shadow:0 0 5px #ccc}
 .row{width:1000px}
 /*---------Top Navigation----------*/
-#topnav{width:1366px;height:32px;background-color:#ff0000;;margin:0}
+#topnav{width:100%;height:32px;background-color:#ff0000;;margin:0}
 .tm-head{margin:0 auto;height:32px;line-height:32px;overflow:hidden}
 .tm-menu{float:left}
 #nav1 li{float:left;display:inline-block;line-height:32px;padding:0;margin-right:20px}
